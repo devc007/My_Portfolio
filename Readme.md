@@ -1,3 +1,4 @@
-This is my portfolio repository, where I am going to store everything I have learned. Through Blogs, youtube tutorial and my personel projects. 
-My name is devesh chouhan.
-I am a computer science engineer specilised in DevOps and interest in cybersecutiry and learning the cool technology around us with reverse engineering.
+This is my portfolio repository, where I will store everything I have learned through blogs, YouTube tutorials, and my personal projects.
+
+My name is Devesh Chouhan.
+I am a Computer Science engineer specializing in DevOps, with an interest in cybersecurity and learning about cool technologies around us through reverse engineering.
